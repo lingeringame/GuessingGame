@@ -1,5 +1,3 @@
-
-
 import random
 
 prevcat = 0
